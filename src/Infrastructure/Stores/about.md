@@ -1,0 +1,1 @@
+Stores looks pretty similar to BaseContextm they just keep data information
